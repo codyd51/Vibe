@@ -1,0 +1,9 @@
+Package: com.phillipt.vibe
+Name: Vibe
+Depends: mobilesubstrate, libactivator
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Tell the time with vibrations!
+Maintainer: Phillip Tennen
+Author: Phillip Tennen
+Section: Tweaks

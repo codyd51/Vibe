@@ -1,0 +1,4 @@
+{title = "Vibe";
+    description = "Tell the time with vibrations!";
+    "compatible-modes" = ("springboard", "application", "lockscreen");}
+
